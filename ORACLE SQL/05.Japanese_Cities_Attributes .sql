@@ -1,0 +1,1 @@
+SELECT * FROM city WH countrycode='jpn'
