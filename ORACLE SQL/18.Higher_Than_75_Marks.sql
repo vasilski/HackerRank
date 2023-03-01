@@ -1,0 +1,3 @@
+SELECT name FROM students
+WHERE MARKS > 75
+ORDER BY SUBSTR(name, -3,3) ASC;
